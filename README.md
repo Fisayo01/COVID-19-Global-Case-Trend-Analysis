@@ -6,7 +6,8 @@ This project analyzes global COVID-19 trends between January and July 2020 using
 The objective of the project is to understand the spread, severity, and recovery patterns of COVID-19 across different geographic regions and to provide data-driven insights into global pandemic trends.
 
 ## 📎 Dashboard Preview
-![Screenshot_20260125_180916_LinkedIn](https://github.com/user-attachments/assets/c460ac0d-fd03-4f4b-a89a-a584dca77116)
+![20260219_203643](https://github.com/user-attachments/assets/12992e4d-f932-453b-a178-9522461234c3)
+
 
 ## 🎯 Problem Statement
 During the early stages of the COVID-19 pandemic, stakeholders needed to understand:
